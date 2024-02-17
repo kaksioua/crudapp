@@ -1,8 +1,7 @@
-# React + Vite
+<span align="center">![crud-app](https://user-images.githubusercontent.com/48409548/94567114-8aa5ea80-0284-11eb-99f6-87401b099848.png)</span>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Crud App
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<p>
+Introducing our Employee Management System, a CRUD application equipped with an intuitive admin login feature. Seamlessly navigate through employee data with the ability to add, delete, and modify every aspect of employment records.
+</p>
